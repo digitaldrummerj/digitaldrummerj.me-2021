@@ -35,11 +35,11 @@ The first thing that we are going to do is create a C# class to hold the informa
 1. Select Add
 1. Select Class
 
-![Add New Class to Model Folder in Visual Studio](/images/posts/web-api-getting-started/webapi-add-new-model.png)
+![Add New Class to Model Folder in Visual Studio](/images/web-api-getting-started/webapi-add-new-model.png)
 
 In the "Add New Item" dialog that comes up, name the file UserModel.cs and click ok
 
-![Set new model file name to UserModel.cs](/images/posts/web-api-getting-started/webapi-add-new-model-filename.png)
+![Set new model file name to UserModel.cs](/images/web-api-getting-started/webapi-add-new-model-filename.png)
 
 In the UserModel.cs replace the contents with the following code:
 

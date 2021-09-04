@@ -34,7 +34,7 @@ To make a C# application with Visual Studio:
 * Open Visual Studio 2015.  Any edition will work.  I am using Community Edition.
 * Click File -> New -> *Project...*
 
-    ![New Project](/images/posts/web-api-getting-started/vs-start-project.png)
+    ![New Project](/images/web-api-getting-started/vs-start-project.png)
 
 * Find and select *ASP.NET Web Application*, give your application a name and select *ok*
 
@@ -46,7 +46,7 @@ To make a C# application with Visual Studio:
     1. Uncheck the "Application Insights" box since we are not going to be using Application Insights
     1. Click the Ok button
 
-    ![New Web Application](/images/posts/web-api-getting-started/vs-new-web-app.png)
+    ![New Web Application](/images/web-api-getting-started/vs-new-web-app.png)
 
 * On the next screen, we need to select the New ASP.NET Project Options
 
@@ -57,19 +57,19 @@ To make a C# application with Visual Studio:
     1. Uncheck "Host in the cloud"
     1. Click Ok to generate the project
 
-    ![Web App Options](/images/posts/web-api-getting-started/vs-new-web-app-options.png)
+    ![Web App Options](/images/web-api-getting-started/vs-new-web-app-options.png)
 
 * You project has now been generated and you should see a screen similar to the follow in Visual Studio
 
-    ![Generated Project](/images/posts/web-api-getting-started/vs-new-web-app-finished.png)
+    ![Generated Project](/images/web-api-getting-started/vs-new-web-app-finished.png)
 
 * If you hit F5 your default browser will launch with the Web Api Start Page.
 
-    ![Initial Start Page in Chrome](/images/posts/web-api-getting-started/chrome-initial-start-page.png)
+    ![Initial Start Page in Chrome](/images/web-api-getting-started/chrome-initial-start-page.png)
 
 * The Web Api project comes with a couple of Web Api Endpoints and a very useful Api documentation page that shows all of the available Api endpoints.    Click on the API link in the top nav bar to view the documentation page.
 
-    ![Api Doc Page in Chrome](/images/posts/web-api-getting-started/chrome-api-doc-page.png)
+    ![Api Doc Page in Chrome](/images/web-api-getting-started/chrome-api-doc-page.png)
 
 ## Creating Our First Controller
 
@@ -82,21 +82,21 @@ Now that we have a working Web Api project, lets add some functionality to it.  
 1. Select Add from the menu the comes up
 1. Select "Controller..." from the list of templates
 
-![Web Api New Controller](/images/posts/web-api-getting-started/webapi-new-controller.png)
+![Web Api New Controller](/images/web-api-getting-started/webapi-new-controller.png)
 
 This will open up the Controller type options.
 
 1. Select "Web API 2 Controller - Empty"
 1. Click the Add button
 
-    ![Web Api Controller Template Selection](/images/posts/web-api-getting-started/webapi-new-controller-template.png)
+    ![Web Api Controller Template Selection](/images/web-api-getting-started/webapi-new-controller-template.png)
 
 Next you will need to input the file name.
 
 1. Change the file name to FirstController
 1. Click the Add button
 
-    ![Web Api Controller File Name](/images/posts/web-api-getting-started/webapi-new-controller-filename.png)
+    ![Web Api Controller File Name](/images/web-api-getting-started/webapi-new-controller-filename.png)
 
 We now have a blank Web Api Controller that is ready for us to create methods within.
 

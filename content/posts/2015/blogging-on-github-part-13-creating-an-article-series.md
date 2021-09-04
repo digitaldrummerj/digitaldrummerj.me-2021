@@ -99,11 +99,11 @@ Note: I assume that you have alrady cloned your jekyll repo to your machine.  Th
 
 If you do not have the bootstrap css include in your blog, then you will notice that the series listing does not stand out at all.
 
-![Series Listing with No Css](/images/posts/BloggingOnGitHub/ScreenshotOfSeriesWithNoCss.png)
+![Series Listing with No Css](/images/BloggingOnGitHub/ScreenshotOfSeriesWithNoCss.png)
 
 In the next section we will add the missing panel css to make it look more like this.
 
- ![Series Listing with Css](/images/posts/BloggingOnGitHub/ScreenshotOfSeriesWithCss.png)
+ ![Series Listing with Css](/images/BloggingOnGitHub/ScreenshotOfSeriesWithCss.png)
 
 ### Section 3: Adding CSS
 
@@ -200,7 +200,7 @@ In this section we will add in the css to make the series listing stand out and 
 1. Save the file
 1. Run jekyll serve and view one of the new blog post.  If should look like this:
 
-	![Series Listing with Css](/images/posts/BloggingOnGitHub/ScreenshotOfSeriesWithCss.png)
+	![Series Listing with Css](/images/BloggingOnGitHub/ScreenshotOfSeriesWithCss.png)
 
 ### Conclusion
 

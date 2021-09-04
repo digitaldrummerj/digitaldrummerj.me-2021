@@ -38,10 +38,10 @@ The settings in Visual Studio are under Tools -> Options -> Projects and Solutio
 
 By default the system path is set to be looked at after the Visual Studio versions ($(DevEnvDir)\Extensions\Microsoft\Web Tools\External).
 
-![Visual Studio External Web Tools Options](/images/posts/VisualStudio/VisualStudio2015-ExternalWebTools.png)
+![Visual Studio External Web Tools Options](/images/VisualStudio/VisualStudio2015-ExternalWebTools.png)
 
 To use the system PATH environment variable instead, click on the $(PATH) and use the arrows at the top-right to move it up.
 
-![Visual Studio External Web Tools Path Moved Higher](/images/posts/VisualStudio/VisualStudio2015-ExternalWebTools_PathHigher.png)
+![Visual Studio External Web Tools Path Moved Higher](/images/VisualStudio/VisualStudio2015-ExternalWebTools_PathHigher.png)
 
 This will ensure that the version of the tools used matches what the command line is using.

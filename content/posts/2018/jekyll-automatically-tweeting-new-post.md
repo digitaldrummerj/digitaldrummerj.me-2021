@@ -20,71 +20,71 @@ Both systems work extremely well it is just a matter of which system has the abi
 ## Setting up Zapier
 
 1. Sign up for a free Zapier account at [https://zapier.com/sign-up](https://zapier.com/sign-up)
-1. Click on the ![Make a Zap](/images/posts/tweet-new-post/make-a-zap.png) button. **Note:** Zaps are their name for the automated task
+1. Click on the ![Make a Zap](/images/tweet-new-post/make-a-zap.png) button. **Note:** Zaps are their name for the automated task
 
 1. Search for RSS as the App Name and select RSS by Zapier from the results.
 
-    ![](/images/posts/tweet-new-post/search-rss.png)
+    ![](/images/tweet-new-post/search-rss.png)
 
 1. Select New Item In Feed
 
-    ![](/images/posts/tweet-new-post/new-item-in-feed.png)
+    ![](/images/tweet-new-post/new-item-in-feed.png)
 
-1. Click the ![save and continue](/images/posts/tweet-new-post/save-continue.png) button
+1. Click the ![save and continue](/images/tweet-new-post/save-continue.png) button
 1. Input your RSS feed url
 
-    ![](/images/posts/tweet-new-post/feed-url.png)
+    ![](/images/tweet-new-post/feed-url.png)
 
-1. Leave everything else with the defaults and click the ![continue](/images/posts/tweet-new-post/continue.png) button
+1. Leave everything else with the defaults and click the ![continue](/images/tweet-new-post/continue.png) button
 
-1. Click the ![fetch and continue](/images/posts/tweet-new-post/fetch-continue.png)
+1. Click the ![fetch and continue](/images/tweet-new-post/fetch-continue.png)
 
 1. If everything with the feed setup is correct you will get a successfully message
 
-    ![](/images/posts/tweet-new-post/fetch-continue-test-successful.png)
+    ![](/images/tweet-new-post/fetch-continue-test-successful.png)
 
-1. Click the ![continue](/images/posts/tweet-new-post/continue.png) button
+1. Click the ![continue](/images/tweet-new-post/continue.png) button
 
 1. Search for buffer as the App Name and select Buffer from the results.
 
-    ![](/images/posts/tweet-new-post/search-buffer.png)
+    ![](/images/tweet-new-post/search-buffer.png)
 
 1. Select the Add to Buffer option
 
-    ![](/images/posts/tweet-new-post/add-to-buffer.png)
+    ![](/images/tweet-new-post/add-to-buffer.png)
 
-1. Click the ![save and continue](/images/posts/tweet-new-post/save-continue.png) button
+1. Click the ![save and continue](/images/tweet-new-post/save-continue.png) button
 
-1. Select your Buffer Account or click the ![connect to account](/images/posts/tweet-new-post/connect-buffer-account.png)
+1. Select your Buffer Account or click the ![connect to account](/images/tweet-new-post/connect-buffer-account.png)
 
 1. For the profile drop down select your Twitter profile
 
-    ![](/images/posts/tweet-new-post/twitter-profile.png)
+    ![](/images/tweet-new-post/twitter-profile.png)
 
 1. For the text field, input what you want your new post tweet to say. The important piece to add into the text field is the link to the new blog post.
-1. To add the link, click on the ![plus](/images/posts/tweet-new-post/plus-button.png) and select the link option
+1. To add the link, click on the ![plus](/images/tweet-new-post/plus-button.png) and select the link option
 
-    ![](/images/posts/tweet-new-post/blog-link.png)
+    ![](/images/tweet-new-post/blog-link.png)
 
 1. For my text field, it looks like
 
-    ![](/images/posts/tweet-new-post/text-field.png)
+    ![](/images/tweet-new-post/text-field.png)
 
 1. For top? field select yes to put your new blog post tweet at the top of your Buffer queue.
 
-    ![](/images/posts/tweet-new-post/top-field.png)
+    ![](/images/tweet-new-post/top-field.png)
 
-1. Click the ![continue](/images/posts/tweet-new-post/continue.png) button
+1. Click the ![continue](/images/tweet-new-post/continue.png) button
 
-1. Click the ![send test to buffer](/images/posts/tweet-new-post/send-to-buffer.png) button
+1. Click the ![send test to buffer](/images/tweet-new-post/send-to-buffer.png) button
 1. If everything is working, you should see a test successful message
 
-    ![](/images/posts/tweet-new-post/send-to-buffer-successful.png)
+    ![](/images/tweet-new-post/send-to-buffer-successful.png)
 
 1. Also, go to buffer and verify that a new post has been added to the buffer queue.  You will also want to delete the new post from your buffer queue
 
-    ![](/images/posts/tweet-new-post/new-post-test.png)
+    ![](/images/tweet-new-post/new-post-test.png)
 
-1. Click the ![finish](/images/posts/tweet-new-post/finish.png) button
+1. Click the ![finish](/images/tweet-new-post/finish.png) button
 
 Zapier is now setup to put a tweet at the top of your Buffer queue whenever you publish a new blog post into your RSS feed.

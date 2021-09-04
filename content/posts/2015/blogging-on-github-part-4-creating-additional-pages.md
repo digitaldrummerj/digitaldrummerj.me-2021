@@ -29,11 +29,11 @@ If you have been following along with the other part in this series,  the step s
 
 2. Click on the + button to add a new file
 
-    ![Github Plus Button](/images/posts/BloggingOnGitHub/github_add_button.png)
+    ![Github Plus Button](/images/BloggingOnGitHub/github_add_button.png)
 
 3.  Name the file portfolio.md
 
-    ![Github Name the New File portfolio.md](/images/posts/BloggingOnGitHub/github_name_file_portfolio.png)
+    ![Github Name the New File portfolio.md](/images/BloggingOnGitHub/github_name_file_portfolio.png)
 
 4.  Go to the next section to decide on the layout for the page
 
@@ -69,11 +69,11 @@ For now just add some simple markdown like below:
 
 Your page should now look like this in the editor
 
-![Github Editor for Portfolio.md](/images/posts/BloggingOnGitHub/github_part4_portfolio_page_markdown.png)
+![Github Editor for Portfolio.md](/images/BloggingOnGitHub/github_part4_portfolio_page_markdown.png)
 
 After you have added the above text, scroll to the bottom of the page, add your commit note, and    click the commit button.
 
-![Github Commit Portfolio.md](/images/posts/BloggingOnGitHub/github_part4_portfolio_page_commit_change.png)
+![Github Commit Portfolio.md](/images/BloggingOnGitHub/github_part4_portfolio_page_commit_change.png)
 
 ## Section4: Previewing page
 
@@ -81,7 +81,7 @@ To  view the page navigate to http://[username].github.io/portfolio
 
 Your page should look like the following but with your avatar, site name and description in the header of the page.
 
-![first page](/images/posts/BloggingOnGitHub/github_part4_portfolio_view_in_browser.png)
+![first page](/images/BloggingOnGitHub/github_part4_portfolio_view_in_browser.png)
 
 Right now the page is published but not linked to from anywhere.
 
@@ -95,35 +95,35 @@ To add it to the menu:
 
 1. Navigate to the _layout directory in the repository by clicking on the repository title to get back to the main directory of the repository
 
-    ![Github Click on Repository Title](/images/posts/BloggingOnGitHub/github_part4_navigate_to_top.png)
+    ![Github Click on Repository Title](/images/BloggingOnGitHub/github_part4_navigate_to_top.png)
 
 2. Click on _layouts directory
 
-    ![Github Click on Layout](/images/posts/BloggingOnGitHub/github_part4_click_layout.png)
+    ![Github Click on Layout](/images/BloggingOnGitHub/github_part4_click_layout.png)
 
 3. Click on the default.html page.
 
-    ![Github Click on Default.html](/images/posts/BloggingOnGitHub/github_part4_click_default.png)
+    ![Github Click on Default.html](/images/BloggingOnGitHub/github_part4_click_default.png)
 
-4. Click on the ![github_edit_button.png](/images/posts/BloggingOnGitHub/github_edit_button.png) icon to edit the file.
+4. Click on the ![github_edit_button.png](/images/BloggingOnGitHub/github_edit_button.png) icon to edit the file.
 
 5. Find the main menu.  You can search for home or about to find the section
 
-    ![Github Main Menu Html](/images/posts/BloggingOnGitHub/github_part4_menu_html.png)
+    ![Github Main Menu Html](/images/BloggingOnGitHub/github_part4_menu_html.png)
 
 6. Add the following line in the menu at the position you want the portfolio page link to be displayed.
 
         <a href="/portfolio">Portfolio</a>
 
-    ![Github Menu with Portfolio Html](/images/posts/BloggingOnGitHub/github_part4_menu_with_portfolio.png)
+    ![Github Menu with Portfolio Html](/images/BloggingOnGitHub/github_part4_menu_with_portfolio.png)
 
 7. We need to commit the file to the repository by scrolling to the bottom of the page, adding the commit comment, and clicking on the commit button.
 
-    ![Github Default.html Commit changes](/images/posts/BloggingOnGitHub/github_part4_default_commit_changes.png)
+    ![Github Default.html Commit changes](/images/BloggingOnGitHub/github_part4_default_commit_changes.png)
 
 8. Now navigate to your blog and the page link should show in the main menu.  Click on the portfolio menu item and make sure it takes you to the portfolio page.
 
-    ![Github menu includes portfolio link](/images/posts/BloggingOnGitHub/github_part4_menu_with_portfolio_in_browser.png)
+    ![Github menu includes portfolio link](/images/BloggingOnGitHub/github_part4_menu_with_portfolio_in_browser.png)
 
 ## Conclusion
 

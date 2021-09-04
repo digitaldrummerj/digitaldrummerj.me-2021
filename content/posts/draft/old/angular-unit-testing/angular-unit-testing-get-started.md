@@ -64,7 +64,7 @@ Tenent    | Details
 
 For the type of tests that you can run, I really like this testing pyramid.  Your cheapest tests are at the bottom and they get more expensive at you go up the pyramid.  This means that 70% of your tests should be unit tests, 20% for integration test, and 10% for e2e tests.
 
-![testing pyramid: 70% of test should be unit test](/images/posts/ng-unit-testing/testing-pyramid.png)
+![testing pyramid: 70% of test should be unit test](/images/ng-unit-testing/testing-pyramid.png)
 
 ## Creating a Project
 

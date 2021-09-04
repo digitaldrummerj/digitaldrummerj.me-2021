@@ -23,7 +23,7 @@ When I am provisioning a new development virtual machine with vagrant, I do not 
 
 The base install of Windows has all of these programs installed with live tiles turned on that I don't need.  This is a huge amount of clutter.
 
-!["Windows before removing start menu default programs](/images/posts/vagrant/Vagrant-Pre-RemoveDefaultProgramsProvisioning.png)
+!["Windows before removing start menu default programs](/images/vagrant/Vagrant-Pre-RemoveDefaultProgramsProvisioning.png)
 
 Luckily enough Ben Hunter, wrote a powershell script that we will be going through and setting up as part of the vagrant provisioning process.    [View Original Script](http://blogs.technet.com/b/deploymentguys/archive/2013/10/21/removing-windows-8-1-built-in-applications.aspx).
 
@@ -190,7 +190,7 @@ The last step is to add the running of the script to the vagrant provisioning pr
 
 After we have run the script, if you used the application list that I had in the script, the start menu will look like this.
 
-![Windows start menu after removing default programs](/images/posts/vagrant/Vagrant-Post-RemoveDefaultProgramsProvisioning.png)
+![Windows start menu after removing default programs](/images/vagrant/Vagrant-Post-RemoveDefaultProgramsProvisioning.png)
 
 ## Conclusion
 

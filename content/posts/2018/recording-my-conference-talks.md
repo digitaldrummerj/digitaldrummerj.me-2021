@@ -112,7 +112,7 @@ The two pieces of software that I needed were screen capture and video editing. 
 
 I went with [Camtasia](https://www.techsmith.com/video-editor.html) for both the screen capture and video editing as it meet all of my requirements in one piece of software.
 
-[![](/images/posts/recording-conference/camtasia-logo.png)](https://www.techsmith.com/video-editor.html)
+[![](/images/recording-conference/camtasia-logo.png)](https://www.techsmith.com/video-editor.html)
 
 **PROS:**
 

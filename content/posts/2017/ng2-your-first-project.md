@@ -69,7 +69,7 @@ The ng new command does several things for you:
 
 	ng new angular2-getting-started --style=scss --routing
 
-	![ng new output](/images/posts/ng2-getting-started/ng-new-output.png)
+	![ng new output](/images/ng2-getting-started/ng-new-output.png)
 
 
 You can view the full documentation for the Angular CLI at [https://github.com/angular/angular-cli](https://github.com/angular/angular-cli)
@@ -78,7 +78,7 @@ You can view the full documentation for the Angular CLI at [https://github.com/a
 
 Now that we have our project generated, we can view it in a web browser by running `ng serve` to build it and start up a web server with live reload.  Once `ng serve` has completed, open a web browser and navigate to [http://localhost:4200/](http://localhost:4200).  You should be looking a page that says:
 
-![App Works](/images/posts/ng2-getting-started/app-works.png)
+![App Works](/images/ng2-getting-started/app-works.png)
 
 ## Project layout
 
@@ -86,7 +86,7 @@ If you look at the project directory and file layout there are some key pieces o
 
 <div class="row">
 	<div class="medium-12 large-6 columns">
-		<p class="solidborder"><img src="/images/posts/ng2-getting-started/ng-project-layout.png" alt="Project Layout"></p>
+		<p class="solidborder"><img src="/images/ng2-getting-started/ng-project-layout.png" alt="Project Layout"></p>
 	</div>
 	<div class="medium-12 large-6 columns">
 		<ul>

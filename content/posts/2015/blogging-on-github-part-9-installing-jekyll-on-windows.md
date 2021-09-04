@@ -72,7 +72,7 @@ We are going to be installing Ruby, Ruby DevKit, and Python using Chocolatey and
 
 Now that you have Boxstarter installed, you will notice on your desktop a new icon called Boxstarter Shell.
 
-![Boxstarter Shell Icon](/images/posts/BloggingOnGitHub/BoxStarterShellIcon.png)
+![Boxstarter Shell Icon](/images/BloggingOnGitHub/BoxStarterShellIcon.png)
 
 
 1. Run the Boxstarter Shell
@@ -133,7 +133,7 @@ Now that we have everything installed for jekyll it is time to test it out.
 1. If it build successfully you will see something like this
 
 
-	![Jekyll Serve Success](/images/posts/BloggingOnGitHub/jekyllserve.png)
+	![Jekyll Serve Success](/images/BloggingOnGitHub/jekyllserve.png)
 
 1. Now if you open up your browser and navigate to http://localhost:4000 you will see you blog.
 
@@ -159,7 +159,7 @@ However, by default your _config.yml file will be set for production which will 
 1. 	If it build successfully you will see something like this
 
 
-	![Jekyll Serve Success](/images/posts/BloggingOnGitHub/jekyllserve_multipleconfigs.png)
+	![Jekyll Serve Success](/images/BloggingOnGitHub/jekyllserve_multipleconfigs.png)
 
 1. Now if you open up your browser and navigate to http://localhost:4000 you will see you blog and any place that reference site.url will be working.
 

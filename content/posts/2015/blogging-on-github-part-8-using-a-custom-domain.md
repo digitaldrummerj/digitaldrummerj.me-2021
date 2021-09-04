@@ -31,11 +31,11 @@ The first step in this process is to get a domain name.  The easiest way to do t
 1. Go to [dnsimple](http://dnsimple.com)
 2. Click the "Get Started with DNSimple Today" button
 
-    ![Getting Started with DNSimple Today button](/images/posts/BloggingOnGitHub/github_part_8_get_started_dnsimple.png)
+    ![Getting Started with DNSimple Today button](/images/BloggingOnGitHub/github_part_8_get_started_dnsimple.png)
 
 3. Click the "Add Domain" button
 
-    ![Add Domain button](/images/posts/BloggingOnGitHub/github_part_8_add_domain_button.png)
+    ![Add Domain button](/images/BloggingOnGitHub/github_part_8_add_domain_button.png)
 
 4. Fill in the domain name that you want or if you are transferring the domain to DNSimple fill in the domain name that you want to transfer.
 5. Check the "Register or transfer this domain" box
@@ -43,12 +43,12 @@ The first step in this process is to get a domain name.  The easiest way to do t
 7. If you want the domain to auto renew each year, check the "Enable Auto Renewal"
 8. Click the "Add Domain" button
 
-    ![Add Domain button](/images/posts/BloggingOnGitHub/github_part_8_add_domain_button.png)
+    ![Add Domain button](/images/BloggingOnGitHub/github_part_8_add_domain_button.png)
 
 9. Fill in your contact information
 10. Click the "Register Domain" button
 
-    ![Register Domain button](/images/posts/BloggingOnGitHub/github_part_8_register_domain.png)
+    ![Register Domain button](/images/BloggingOnGitHub/github_part_8_register_domain.png)
 
 11. You now have a domain name registered and are ready to complete the DNS setup in the next section.
 
@@ -61,19 +61,19 @@ The first step in this process is to get a domain name.  The easiest way to do t
 1. Click the "Services" button next to your domain name under the DNSimple domain list for your account.
 1. Scroll down until you see the "Github Pages" service
 
-    ![Github Pages Service](/images/posts/BloggingOnGitHub/github_part_8_dnsimple_github_service.png)
+    ![Github Pages Service](/images/BloggingOnGitHub/github_part_8_dnsimple_github_service.png)
 
 1. Click the Add Button
 
-    ![Github Page Service Add Button](/images/posts/BloggingOnGitHub/github_part_8_dnsimple_github_service_add_button.png)
+    ![Github Page Service Add Button](/images/BloggingOnGitHub/github_part_8_dnsimple_github_service_add_button.png)
 
 1. Fill in your Github username
 
-    ![Github Pages Name](/images/posts/BloggingOnGitHub/github_part_8_dnsimple_github_service_setup.png)
+    ![Github Pages Name](/images/BloggingOnGitHub/github_part_8_dnsimple_github_service_setup.png)
 
 1. Click the "Complete Github Pages Setup" button
 
-    ![Github Pages Service](/images/posts/BloggingOnGitHub/github_part_8_dnsimple_github_service_setup_complete.png)
+    ![Github Pages Service](/images/BloggingOnGitHub/github_part_8_dnsimple_github_service_setup_complete.png)
 
 1. You now have DNSimple configured to point your domain name correctly to your Github blog at http://[username].github.io
 
@@ -85,19 +85,19 @@ The first step in this process is to get a domain name.  The easiest way to do t
 
 1. Click on the + button to add a new file
 
-    ![Github Plus Button](/images/posts/BloggingOnGitHub/github_add_button.png)
+    ![Github Plus Button](/images/BloggingOnGitHub/github_add_button.png)
 
 1.  Name the file CNAME with no extension
 
-    ![Github Name the New File CNAME](/images/posts/BloggingOnGitHub/github_part_8_add_cname_file.png)
+    ![Github Name the New File CNAME](/images/BloggingOnGitHub/github_part_8_add_cname_file.png)
 
 1. At the very top of the file add your domain name
 
-    ![Add Domain Name at top of CNAME file](/images/posts/BloggingOnGitHub/github_part_8_cname_domain_name.png)
+    ![Add Domain Name at top of CNAME file](/images/BloggingOnGitHub/github_part_8_cname_domain_name.png)
 
 1. Scroll to the "Commit changes" section on the Github Editor, put in your commit comment and click "Commit changes"
 
-    ![Commit CNAME Changes](/images/posts/BloggingOnGitHub/github_part_8_cname_commit.png)
+    ![Commit CNAME Changes](/images/BloggingOnGitHub/github_part_8_cname_commit.png)
 
 1. It will take a few minutes for Github to update before you will be able to browse to your Github blog with your domain name.  Once your domain is working, even the old http://[username].github.io url will redirect to your domain name.
 

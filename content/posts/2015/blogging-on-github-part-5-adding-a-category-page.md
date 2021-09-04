@@ -28,11 +28,11 @@ If you have been following along with the other lessons in the series, this shou
 
 1. Click on the + button to add a new file
 
-    ![Github Plus Button](/images/posts/BloggingOnGitHub/github_add_button.png)
+    ![Github Plus Button](/images/BloggingOnGitHub/github_add_button.png)
 
 1. Name the file archivebycategory.md
 
-    ![Github Name the New File archivebycategory.md](/images/posts/BloggingOnGitHub/github_part_5_archivebycategory_file_name.png)
+    ![Github Name the New File archivebycategory.md](/images/BloggingOnGitHub/github_part_5_archivebycategory_file_name.png)
 
 ## Section 2: Adding the Metadata
 
@@ -82,13 +82,13 @@ Next you need to add the code to display the list of blog post by category and s
 
 1. After you have added the above text, scroll to the bottom of the page, add your commit note, and    click the commit button.
 
-    ![Github Commit archivebycategory.md](/images/posts/BloggingOnGitHub/github_part_5_commit_archivebycategory.png)
+    ![Github Commit archivebycategory.md](/images/BloggingOnGitHub/github_part_5_commit_archivebycategory.png)
 
 1. To  view the category page, navigate to http://[username].github.io/categoryview
 
 1. Your page should look like the following but with your avatar, site name and description in the header of the page.
 
-    ![category view screenshot](/images/posts/BloggingOnGitHub/github_part_5_archivebycategory_in_browser.png)
+    ![category view screenshot](/images/BloggingOnGitHub/github_part_5_archivebycategory_in_browser.png)
 
 1. You will notice that the "You're up and running" post does not show up on the categories page.  This is because there is no categories front matter tag for that blog post.  Go ahead and open 2014-3-3-Hello-World.md and add the categories front matter tag.
 
@@ -104,7 +104,7 @@ Unlike the portfolio page that we created in the last lesson, this time we are n
 
 1. Click on the default.html file to open it.
 
-1. Click on the ![github_edit_button.png](/images/posts/BloggingOnGitHub/github_edit_button.png) icon to edit the file.
+1. Click on the ![github_edit_button.png](/images/BloggingOnGitHub/github_edit_button.png) icon to edit the file.
 
 1. Right after the &lt;/header&gt; tag, add the following html snippet
 
@@ -117,11 +117,11 @@ Unlike the portfolio page that we created in the last lesson, this time we are n
 
 1. Scroll down to the bottom, add the commit comment, and click on the commit change button.
 
-    ![Commit default.html changes](/images/posts/BloggingOnGitHub/github_part_5_commit_default.png)
+    ![Commit default.html changes](/images/BloggingOnGitHub/github_part_5_commit_default.png)
 
 1. Now go view your blog's home page at http://[username].github.io/.  You should now see the "browse by category" link in the header.
 
-    ![Blog's Home Page with Browse By Category Link in Header](/images/posts/BloggingOnGitHub/github_part_5_browse_by_category_in_header.png)
+    ![Blog's Home Page with Browse By Category Link in Header](/images/BloggingOnGitHub/github_part_5_browse_by_category_in_header.png)
 
 ## Conclusion
 

@@ -130,7 +130,7 @@ Now that we have everything installed for jekyll it is time to test it out.
 
 1. If it build successfully you will see something like this
 
-	![Jekyll Serve Success](/images/posts/BloggingOnGitHub/jekyllserve.png)
+	![Jekyll Serve Success](/images/BloggingOnGitHub/jekyllserve.png)
 
 1. Now if you open up your browser and navigate to http://localhost:4000 you will see you blog.
 
@@ -153,7 +153,7 @@ However, by default your _config.yml file will be set for production which will 
 
 1. 	If it build successfully you will see something like this
 
-	![Jekyll Serve Success](/images/posts/BloggingOnGitHub/jekyllserve_multipleconfigs.png)
+	![Jekyll Serve Success](/images/BloggingOnGitHub/jekyllserve_multipleconfigs.png)
 
 1. Now if you open up your browser and navigate to http://localhost:4000 you will see you blog and any place that reference site.url will be working.
 

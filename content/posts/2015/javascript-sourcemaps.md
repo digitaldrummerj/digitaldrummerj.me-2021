@@ -110,15 +110,15 @@ Now that we have the source maps generated, we have to tell the Chrome Developer
 1. Open Google Chrome.
 1. Open the Developer Tools.
 
-    ![Open Chrome Developer Tools](/images/posts/ChromeDevTools/ChromeDevTools-Open.png)
+    ![Open Chrome Developer Tools](/images/ChromeDevTools/ChromeDevTools-Open.png)
 
 1.  Click on the Setting Cog.
 
-    ![Open Settings](/images/posts/ChromeDevTools/ChromeDevTools-SettingsCog.png)
+    ![Open Settings](/images/ChromeDevTools/ChromeDevTools-SettingsCog.png)
 
 1. Scroll down in the General Settings under you see the Sources section and ensure that the "Enable JavaScript source maps" is checked.
 
-    ![Enable Javascript Source Maps](/images/posts/ChromeDevTools/ChromeDevTools-JavascriptSourcemapsEnabled.png)
+    ![Enable Javascript Source Maps](/images/ChromeDevTools/ChromeDevTools-JavascriptSourcemapsEnabled.png)
 
 1. Click on the X in the upper right of the Settings windows to close it.
 1. Now view your web site in the browser to make sure everything is still working.

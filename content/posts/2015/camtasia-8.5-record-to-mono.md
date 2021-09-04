@@ -16,7 +16,7 @@ After a little bit of searching I came across this [forum post](https://feedback
 
 When you are in Camtasia Studio, click on your clip, select audio options and check the mix to mono option.
 
-![Camtasia Mix To Mono](/images/posts/Camtasia8_5_MixToMono.png)
+![Camtasia Mix To Mono](/images/Camtasia8_5_MixToMono.png)
 
 Note: You may have to separate the audio from the video by right clicking on the clip and selecting the separate video and audio.   Then click on the audio track and follow the steps above.
 

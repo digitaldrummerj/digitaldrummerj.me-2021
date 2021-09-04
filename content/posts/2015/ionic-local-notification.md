@@ -38,8 +38,8 @@ Make sure that you meet these requirements:
 
 You can refer to the following articles to configure your environment:
 
-1. [Setup Ionic on Windows](/images/posts/IonicLocalNotifications/Ionic-Setup-Windows)
-1. [Setup Ionic on Mac](/images/posts/IonicLocalNotifications/ionic-setup-osx/)
+1. [Setup Ionic on Windows](/images/IonicLocalNotifications/Ionic-Setup-Windows)
+1. [Setup Ionic on Mac](/images/IonicLocalNotifications/ionic-setup-osx/)
 
 ## Creating Project
 

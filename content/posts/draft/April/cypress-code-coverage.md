@@ -50,7 +50,7 @@ The Cypress open command will:
 * create a cypress.json configuration file in the root of your project
 * create a set of sample tests in the cypress\integration\examples folder
 
-![Cypress Open First Time](/images/posts/code-coverage/cypress-open-examples.png)
+![Cypress Open First Time](/images/code-coverage/cypress-open-examples.png)
 
 > You can safely delete the cypress\integration\examples folder as we won't be using them.
 
@@ -212,13 +212,13 @@ Now we are ready to run our code coverage.  In order to run our tests, we need t
 
 1. Now when you run your tests, it will output a coverage report.  Within the Cypress UI, will see 3 messages about the code coverage.
 
-      ![Cypress UI with Coverage Messages](/images/posts/code-coverage/cypress-code-coverage-in-ui.png)
+      ![Cypress UI with Coverage Messages](/images/code-coverage/cypress-code-coverage-in-ui.png)
 
 ## Viewing Code Coverage Report
 
 Once all of your tests are done running, you can find the coverage report in the root of your project in the coverage\lcov-report\src\index.html file.  The important number to look at is the lines that are covered.  In our case 8 out of 10 lines are covered.
 
-![Code Coverage Report](/images/posts/code-coverage/code-coverage-report-ui.png)
+![Code Coverage Report](/images/code-coverage/code-coverage-report-ui.png)
 
 You can also click on any folder or file and drill down in to see which lines of code were coverage and which lines weren't covered.
 

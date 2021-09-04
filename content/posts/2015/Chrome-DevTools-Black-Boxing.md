@@ -27,13 +27,13 @@ So how do you turn on black boxing for a file?
 1. Navigate to the web site that you want to troubleshoot
 1. Open the Chrome Developer Tools
 
-	![Open Chrome Dev Tools Screenshot](/images/posts/ChromeDevTools/ChromeDevTools-Open.png)
+	![Open Chrome Dev Tools Screenshot](/images/ChromeDevTools/ChromeDevTools-Open.png)
 
 1. Navigate to the Source tab
 1. Right-click on your javascript file you want to black box
 1. Select Blackbox script from the menu
 
-	![Black Box Script Screenshot](/images/posts/ChromeDevTools/ChromeDevTools-BlackBoxing.png)
+	![Black Box Script Screenshot](/images/ChromeDevTools/ChromeDevTools-BlackBoxing.png)
 
 Now you are ready to set a breakpoint in your code, refresh your page and debug your javascript code.
 

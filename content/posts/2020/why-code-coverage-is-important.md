@@ -4,7 +4,7 @@ date: 2020-04-12T00:00:00Z
 published: true
 title: You Need Code Coverage
 subheadline: don't test in the dark
-featured_image: "/images/posts/code-coverage/why-code-coverage-featured-image.png"
+featured_image: "/images/code-coverage/why-code-coverage-featured-image.png"
 series: ["Code Coverage"]
 ---
 
@@ -20,7 +20,7 @@ So at the start of 2020, it was finally decided to make testing truely a priorit
 
 Once you have code coverage implemented, you can get reports generated for you such as:
 
-![detailed coveage report](/images/posts/code-coverage/cypress-coverage-report-example.png)
+![detailed coveage report](/images/code-coverage/cypress-coverage-report-example.png)
 
 The report shows me a quick summary at the top of the amount of code coverage (33.66% covered) and then I can drill into each file to see what lines are covered and not covered.  For the summary section, the important number is the lines (the last one in the list) as this is the totally number of lines of code that is touched by a tests.
 

@@ -37,7 +37,7 @@ The repository that I used and recommend to fork is the "Jekyll Now" repository 
 
 ## Section 2: Forking the Repository
 
-Forking a repository in Github is extremely simple.  Go to [https://github.com/barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) and click the ![github fork button](/images/posts/BloggingOnGitHub/github_fork_button.png) button.  Github will now create a fork of the repository for you into your account.
+Forking a repository in Github is extremely simple.  Go to [https://github.com/barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) and click the ![github fork button](/images/BloggingOnGitHub/github_fork_button.png) button.  Github will now create a fork of the repository for you into your account.
 
 ## Section 3: Renaming the Repository
 
@@ -45,17 +45,17 @@ Once you fork the repository, you will need to go into the settings for your new
 
 ### Getting to settings
 
-![github settings](/images/posts/BloggingOnGitHub/github_settings_button.png)
+![github settings](/images/BloggingOnGitHub/github_settings_button.png)
 
 ### Renaming
 
 Finding the settings:
 
-![github repo rename](/images/posts/BloggingOnGitHub/github_repo_rename.png)
+![github repo rename](/images/BloggingOnGitHub/github_repo_rename.png)
 
 Update the name and click the Rename button
 
-![github repo rename done](/images/posts/BloggingOnGitHub/github_repo_rename_done.png)
+![github repo rename done](/images/BloggingOnGitHub/github_repo_rename_done.png)
 
 ## Section 4: Configuring the Repository
 
@@ -67,7 +67,7 @@ There is only 3 values that you are going to want to change:
 
 Optionally, you can also configure your social networks that show up in the footer of the site by filling in the various account names in the "footer-links" section of the _config.yml file.
 
-You can edit the _config.yml directly in Github.  Click on the file and then click the ![github edit file button](/images/posts/BloggingOnGitHub/github_edit_button.png) icon.  Once you have completed your edits, click the green commit button at the bottom of the screen.
+You can edit the _config.yml directly in Github.  Click on the file and then click the ![github edit file button](/images/BloggingOnGitHub/github_edit_button.png) icon.  Once you have completed your edits, click the green commit button at the bottom of the screen.
 
 
 ## Section 5: Viewing the Blog

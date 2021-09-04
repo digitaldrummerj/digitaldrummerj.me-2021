@@ -1,5 +1,5 @@
 +++
-image = "/images/posts/bg.png"
+image = "/images/bg.png"
 description = ""
 draft = true
 comments = true

@@ -41,7 +41,7 @@ You also need to add the following using statement:
 
 If you were to run to code and make a call from Angular you will still get a CORS error like below since you can not have a wildard for the origin.
 
-![Angular CORS Origin Header Error](/images/posts/web-api-cors/cors-no-origin-header.png)
+![Angular CORS Origin Header Error](/images/web-api-cors/cors-no-origin-header.png)
 
 To fix this, we can add in a bit of code to the global.asax.cs in the Application_BeginRequest method to grab the url (origin) making the call and add the Request header "Access-Control-Allow-Origin" set to the origin url.
 

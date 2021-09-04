@@ -62,7 +62,7 @@ Now that we have told the Angular CLI to include the bootstrap library, we are r
 
 1. The page should now look like
 
-    ![Page with Bootstrap](/images/posts/angular2-add-bootstrap/view-page.png)
+    ![Page with Bootstrap](/images/angular2-add-bootstrap/view-page.png)
 
 
 ## Wrapping up

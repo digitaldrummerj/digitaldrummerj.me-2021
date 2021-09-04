@@ -35,27 +35,27 @@ Unfortunately, out of the box Jekyll does not have this  ability.   Luckily, it 
 
 2. Fill out the information request and click the Finish button.  Note: That you can not change the short name value once it is created.  You can have multiple sites under the same account though with different short name values.
 
-    ![DisqusRegisterSite.png](/images/posts/BloggingOnGitHub/DisqusRegisterSite.png)
+    ![DisqusRegisterSite.png](/images/BloggingOnGitHub/DisqusRegisterSite.png)
 
 3. You will be greeted with a "Choose Your Platform" screen like the follow.  Don't worry about any of these options as we are not going to use them.
 
-    ![DisqusChooseAPlatform.png](/images/posts/BloggingOnGitHub/DisqusChooseAPlatform.png)
+    ![DisqusChooseAPlatform.png](/images/BloggingOnGitHub/DisqusChooseAPlatform.png)
 
 4. Click on the General link on the left side of the links above the "Choose Your Platform" title.
 
-    ![DisqusGeneralSettingMenuHighlight.png](/images/posts/BloggingOnGitHub/DisqusGeneralSettingMenuHighlight.png))
+    ![DisqusGeneralSettingMenuHighlight.png](/images/BloggingOnGitHub/DisqusGeneralSettingMenuHighlight.png))
 
 5. Scroll down to the Site Identity and make sure that the values are correct.  The WebSite Name will appear on your blog when the comments show, so make sure it is what you want it to say.  Take note of your shortname as you will need it in the next section when we config your blog to show Disqus.
 
-    ![DisqusGeneralSettingSiteIdentity.png](/images/posts/BloggingOnGitHub/DisqusGeneralSettingSiteIdentity.png)
+    ![DisqusGeneralSettingSiteIdentity.png](/images/BloggingOnGitHub/DisqusGeneralSettingSiteIdentity.png)
 
 6. Scroll down to the next section which should be Community Rules and match the settings to the image below.  To prevent comment spam I always set comments to have to be approved before showing on the site.  The volume on the site will be low enough for now that you will be able to easily manage approving the comments.
 
-    ![DisqusGeneralSettingCommunityRules.png](/images/posts/BloggingOnGitHub/DisqusGeneralSettingCommunityRules.png)
+    ![DisqusGeneralSettingCommunityRules.png](/images/BloggingOnGitHub/DisqusGeneralSettingCommunityRules.png)
 
 7. Scroll down to the next section which should be Social Platform Intergration and add your twitter account if you have one.  This will ensure that when people share comments on your blog that it includes you in the post.
 
-    ![DisqusGeneralSettingSocialIntegration.png](/images/posts/BloggingOnGitHub/DisqusGeneralSettingSocialIntegration.png)
+    ![DisqusGeneralSettingSocialIntegration.png](/images/BloggingOnGitHub/DisqusGeneralSettingSocialIntegration.png)
 
 8.  Click the Save Button
 
@@ -63,14 +63,14 @@ Unfortunately, out of the box Jekyll does not have this  ability.   Luckily, it 
 
 1. Open a web browser and navigate to your [username].github.io repository.
 2. Click on the _config.yml file to navigate to it
-3. Click on the ![github_edit_button.png](/images/posts/BloggingOnGitHub/github_edit_button.png) icon to edit the file
+3. Click on the ![github_edit_button.png](/images/BloggingOnGitHub/github_edit_button.png) icon to edit the file
 4. Look for the text disqus: and put in your disqus shortname name like below.
 
 	disqus: digitaldrummerj
 
 5. Scroll to the bottom of the screen and click on the commit button.  You should put in a comment as well so that you know what changed with the file.
 
-![Github_Save_Changes.png](/images/posts/BloggingOnGitHub/Github_Save_Changes.png)
+![Github_Save_Changes.png](/images/BloggingOnGitHub/Github_Save_Changes.png)
 
 
 ##  Section 3: Testing it out
@@ -79,7 +79,7 @@ Open up a web browser and navigate to your blog and click on the title for the b
 
 Scroll to the bottom of the post and you should see a section to add a comment like this:
 
-![DisqusCommentInBlog.png](/images/posts/BloggingOnGitHub/DisqusCommentInBlog.png)
+![DisqusCommentInBlog.png](/images/BloggingOnGitHub/DisqusCommentInBlog.png)
 
 ## Conclusion
 
