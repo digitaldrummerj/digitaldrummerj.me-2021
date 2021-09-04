@@ -5,7 +5,7 @@ publish = "public"
 command = "echo 'default context'"
 
 [context.production]
-command = "hugo --config config-prod.toml --gc --minify"
+command = "hugo --config config.toml,config-prod.toml --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.88.1"
@@ -13,7 +13,7 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
-command = "hugo --config config-prod.toml --gc --minify -b $DEPLOY_PRIME_URL"
+command = "hugo --config config.toml,config-prod.toml --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.88.0"
